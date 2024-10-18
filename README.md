@@ -48,11 +48,6 @@ This, with historical data and trends, would predict future expenses by applying
 7. **Investment and Savings Platforms Integration
 The next editions of the MoneyMap would be explored with the integration of investment tools, including mutual funds and stock markets. Such innovations would offer a more comprehensive personal finance to users in tracking their expenses with their investment portfolio and net worth for total financial management.
 
-![Screenshot 2024-10-18 110622](https://github.com/user-attachments/assets/50038255-3e2c-4b77-9226-d2ff100f36b3)
-![Screenshot 2024-10-18 110704](https://github.com/user-attachments/assets/2ab6ec4e-9dcc-4241-b752-12c2e37d010a)
-![Screenshot 2024-10-18 110731](https://github.com/user-attachments/assets/ab37255b-34d4-4413-b9fe-bfadf286e4e3)
-![Screenshot 2024-10-18 110745](https://github.com/user-attachments/assets/b5174e52-d6a5-41c3-9f52-b2d86b5bdaa2)
-
 
 
 
@@ -63,3 +58,13 @@ The next editions of the MoneyMap would be explored with the integration of inve
 
 ### Long-Term Vision for **MoneyMap**:
 MoneyMap will morph into a comprehensive personal finance management site that not only tracks daily expenses but helps its users in making informed financial decisions. Using technology such as automation and analytics as well as multisite integration, **MoneyMap** aims to give its users an **integrated view of their financial health**—making money management easier and more achievable, enhancing financial literacy, and steering consumers toward savings and investment goals.
+---
+
+### Ouput (first release)
+
+![Screenshot 2024-10-18 110622](https://github.com/user-attachments/assets/50038255-3e2c-4b77-9226-d2ff100f36b3)
+![Screenshot 2024-10-18 110704](https://github.com/user-attachments/assets/2ab6ec4e-9dcc-4241-b752-12c2e37d010a)
+![Screenshot 2024-10-18 110731](https://github.com/user-attachments/assets/ab37255b-34d4-4413-b9fe-bfadf286e4e3)
+![Screenshot 2024-10-18 110745](https://github.com/user-attachments/assets/b5174e52-d6a5-41c3-9f52-b2d86b5bdaa2)
+
+
